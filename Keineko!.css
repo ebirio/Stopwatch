@@ -1,0 +1,56 @@
+.start{
+font-size:10px;
+}
+h1 {
+  line-height:10 2; 
+}
+
+h5{
+  letter-spacing:1px;
+  line-height:0.5;
+}
+
+.finish-box {
+  width: 100%; margin-left: auto;
+}
+
+.finish {
+  
+    width:100px;
+    height:500px;
+  
+     display: flex;
+     justify-content: flex-end;
+     margin-left: auto; 
+     vertical-align: bottom;
+}
+body {
+  background-image:url(競馬背景.jpeg);
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.animation-area {
+ vertical-align: bottom;
+   text-align:left;
+  margin-top: 1rem;
+     z-index: 1; /*重なりを変更 */
+ 
+     /* top:580px;
+     left:0px; */
+}
+
+footer {
+  background-color:aliceblue;
+}
+/* @keyframes img-animation {
+  100% {
+ 
+
+
+   width:var(--text); 
+}
+} */
+
+/* --test:10px;
+height:var(--test); */
